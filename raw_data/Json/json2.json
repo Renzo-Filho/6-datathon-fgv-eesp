@@ -1,0 +1,1128 @@
+{
+  "data": {
+    "marketDailySnapshots": [
+      {
+        "blockNumber": "16651823",
+        "borrowAPY": [
+          {
+            "rate": "3.0829987107947464"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "19200.50026145600333811349569104781",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5ccd4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3853748388493433",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.0829987107947464",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.9247384127793189",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3853748388493433"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.9247384127793189",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676678327",
+        "totalBorrowBalanceUSD": "27049491.64374883553028",
+        "totalDepositBalanceUSD": "38994259.54514065465248",
+        "totalValueLockedUSD": "38994259.54514065465248"
+      },
+      {
+        "blockNumber": "16644717",
+        "borrowAPY": [
+          {
+            "rate": "3.1210080792869663"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "17357.64723620708285965545282637305",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5ccc4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3901260099108708",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.1210080792869663",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.9724900147723399",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3901260099108708"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.9724900147723399",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676591819",
+        "totalBorrowBalanceUSD": "25701688.28511241682",
+        "totalDepositBalanceUSD": "36600260.5290540219",
+        "totalValueLockedUSD": "36600260.5290540219"
+      },
+      {
+        "blockNumber": "16637532",
+        "borrowAPY": [
+          {
+            "rate": "3.0583824490109825"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "15610.68973694661498556789088928089",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5ccb4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3822978061263728",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.0583824490109825",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.894124898894729",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3822978061263728"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.894124898894729",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676505095",
+        "totalBorrowBalanceUSD": "25234289.45104489007456",
+        "totalDepositBalanceUSD": "36669663.69142875103136",
+        "totalValueLockedUSD": "36669663.69142875103136"
+      },
+      {
+        "blockNumber": "16630152",
+        "borrowAPY": [
+          {
+            "rate": "2.9130116927626305"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "13783.82299308887711799766770156638",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cca4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3641264615953288",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.9130116927626305",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.7183415172397907",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3641264615953288"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.7183415172397907",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676415947",
+        "totalBorrowBalanceUSD": "23664388.49248170924864",
+        "totalDepositBalanceUSD": "36104635.3315963803228",
+        "totalValueLockedUSD": "36104635.3315963803228"
+      },
+      {
+        "blockNumber": "16623227",
+        "borrowAPY": [
+          {
+            "rate": "2.469179413431708"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "12371.4950303174364808324635606477",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc94b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3086474266789635",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.469179413431708",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.2346115125822781",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3086474266789635"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.2346115125822781",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676332235",
+        "totalBorrowBalanceUSD": "18915190.0174168477614",
+        "totalDepositBalanceUSD": "34046280.59439575897964",
+        "totalValueLockedUSD": "34046280.59439575897964"
+      },
+      {
+        "blockNumber": "16615642",
+        "borrowAPY": [
+          {
+            "rate": "2.7008853581808134"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "11187.07384410427259273695193312791",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc84b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3376106697726017",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.7008853581808134",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.4771932979021889",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3376106697726017"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.4771932979021889",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676240687",
+        "totalBorrowBalanceUSD": "17629989.557374",
+        "totalDepositBalanceUSD": "29010721.201273",
+        "totalValueLockedUSD": "29010721.201273"
+      },
+      {
+        "blockNumber": "16608768",
+        "borrowAPY": [
+          {
+            "rate": "2.5830505456116753"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "10191.8718920448566021352790724554",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc74b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3228813182014594",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.5830505456116753",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.3511103995399166",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3228813182014594"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.3511103995399166",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676157683",
+        "totalBorrowBalanceUSD": "17336969.790874",
+        "totalDepositBalanceUSD": "29830108.399002",
+        "totalValueLockedUSD": "29830108.399002"
+      },
+      {
+        "blockNumber": "16601799",
+        "borrowAPY": [
+          {
+            "rate": "2.2935291673421654"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "9304.006068545854646663907389026228",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc64b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.2866911459177707",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.2935291673421654",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.0652058983934725",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.2866911459177707"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.0652058983934725",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1676073599",
+        "totalBorrowBalanceUSD": "15244420.381721",
+        "totalDepositBalanceUSD": "29540835.565023",
+        "totalValueLockedUSD": "29540835.565023"
+      },
+      {
+        "blockNumber": "16594595",
+        "borrowAPY": [
+          {
+            "rate": "2.3139663287689506"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "8563.154599602819280075694781213668",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc54b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.2892457910961188",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.3139663287689506",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.0842741345619822",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.2892457910961188"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.0842741345619822",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675986767",
+        "totalBorrowBalanceUSD": "14224495.443353",
+        "totalDepositBalanceUSD": "27321044.838024",
+        "totalValueLockedUSD": "27321044.838024"
+      },
+      {
+        "blockNumber": "16586771",
+        "borrowAPY": [
+          {
+            "rate": "2.9266841017884883"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "7652.200922353611151342121542294456",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc44b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.365835512723561",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.9266841017884883",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.7345096659114518",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.365835512723561"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.7345096659114518",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675892315",
+        "totalBorrowBalanceUSD": "15594572.24035757721675",
+        "totalDepositBalanceUSD": "23680918.81502810269092",
+        "totalValueLockedUSD": "23680918.81502810269092"
+      },
+      {
+        "blockNumber": "16580102",
+        "borrowAPY": [
+          {
+            "rate": "3.120921395371312"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "6699.266907361088449882842460425278",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc34b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.390115174421414",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.120921395371312",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.9723804471074995",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.390115174421414"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.9723804471074995",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675811567",
+        "totalBorrowBalanceUSD": "15221152.624068",
+        "totalDepositBalanceUSD": "21675367.294274",
+        "totalValueLockedUSD": "21675367.294274"
+      },
+      {
+        "blockNumber": "16573035",
+        "borrowAPY": [
+          {
+            "rate": "2.9711405450038986"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "5746.151629853067944376153973379009",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc24b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3713925681254873",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.9711405450038986",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.7876044179786278",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3713925681254873"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.7876044179786278",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675726139",
+        "totalBorrowBalanceUSD": "13994989.6628378232",
+        "totalDepositBalanceUSD": "20934038.6156111166",
+        "totalValueLockedUSD": "20934038.6156111166"
+      },
+      {
+        "blockNumber": "16565986",
+        "borrowAPY": [
+          {
+            "rate": "3.5262867981709876"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "4758.621907828543470217769153636619",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc14b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.4407858497713735",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.5262867981709876",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "2.5180264630483866",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.4407858497713735"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "2.5180264630483866",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675641167",
+        "totalBorrowBalanceUSD": "14592456.8594158176588",
+        "totalDepositBalanceUSD": "18391424.98764375971398",
+        "totalValueLockedUSD": "18391424.98764375971398"
+      },
+      {
+        "blockNumber": "16558185",
+        "borrowAPY": [
+          {
+            "rate": "3.0541819908612639"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "3832.215184929681177441828927640173",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cc04b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.381772748857658",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.0541819908612639",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.8889255957435079",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.381772748857658"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.8889255957435079",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675547087",
+        "totalBorrowBalanceUSD": "12135057.89597996016",
+        "totalDepositBalanceUSD": "17658500.12518095506",
+        "totalValueLockedUSD": "17658500.12518095506"
+      },
+      {
+        "blockNumber": "16551634",
+        "borrowAPY": [
+          {
+            "rate": "2.9710961871790547"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "3123.9255457637475029918890289577",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cbf4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3713870233973818",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.9710961871790547",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.7875510420776581",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3713870233973818"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.7875510420776581",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675468007",
+        "totalBorrowBalanceUSD": "10744367.058506",
+        "totalDepositBalanceUSD": "16072088.352316",
+        "totalValueLockedUSD": "16072088.352316"
+      },
+      {
+        "blockNumber": "16544230",
+        "borrowAPY": [
+          {
+            "rate": "2.9396105484762997"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "2400.879973194146560703821103490249",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cbe4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3674513185595375",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.9396105484762997",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.7498653107844092",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3674513185595375"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.7498653107844092",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675378571",
+        "totalBorrowBalanceUSD": "10468398.06800946963",
+        "totalDepositBalanceUSD": "15827084.55269974872",
+        "totalValueLockedUSD": "15827084.55269974872"
+      },
+      {
+        "blockNumber": "16537335",
+        "borrowAPY": [
+          {
+            "rate": "2.8850578198308775"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "1751.493505907034507226940125066271",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cbd4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3606322274788597",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.8850578198308775",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.6855206213128774",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3606322274788597"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.6855206213128774",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675295147",
+        "totalBorrowBalanceUSD": "9309806.976432",
+        "totalDepositBalanceUSD": "14341624.542431",
+        "totalValueLockedUSD": "14341624.542431"
+      },
+      {
+        "blockNumber": "16530243",
+        "borrowAPY": [
+          {
+            "rate": "3.0479603611069041"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "1161.262025849817165902349516768603",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cbc4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.380995045138363",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.0479603611069041",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.8812376284829831",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.380995045138363"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.8812376284829831",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675209551",
+        "totalBorrowBalanceUSD": "8971616.1386081289488",
+        "totalDepositBalanceUSD": "13082039.7807359673776",
+        "totalValueLockedUSD": "13082039.7807359673776"
+      },
+      {
+        "blockNumber": "16522992",
+        "borrowAPY": [
+          {
+            "rate": "2.7594772234141101"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "681.4825570348744121244122165789002",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cbb4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.3449346529267638",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.7594772234141101",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.5419796956746025",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.3449346529267638"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.5419796956746025",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675122095",
+        "totalBorrowBalanceUSD": "6572141.6891788339902",
+        "totalDepositBalanceUSD": "10585120.95266627201805",
+        "totalValueLockedUSD": "10585120.95266627201805"
+      },
+      {
+        "blockNumber": "16515718",
+        "borrowAPY": [
+          {
+            "rate": "2.3018901832929966"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "286.5704319924476136626978719727854",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cba4b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.2877362729116246",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.3018901832929966",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "1.0729864292279848",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.2877362729116246"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "1.0729864292279848",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1675034411",
+        "totalBorrowBalanceUSD": "4257480.04111313896158",
+        "totalDepositBalanceUSD": "8220224.50009363663116",
+        "totalValueLockedUSD": "8220224.50009363663116"
+      },
+      {
+        "blockNumber": "16508724",
+        "borrowAPY": [
+          {
+            "rate": "2.0236424569371812"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "130.4027694846629330984882415727436",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cb94b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.2529553071171476",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "2.0236424569371812",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "0.8292635806875471",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.2529553071171476"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "0.8292635806875471",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1674950003",
+        "totalBorrowBalanceUSD": "2462500.30667901658",
+        "totalDepositBalanceUSD": "5408274.9008497241",
+        "totalValueLockedUSD": "5408274.9008497241"
+      },
+      {
+        "blockNumber": "16501363",
+        "borrowAPY": [
+          {
+            "rate": "3.8599351648592997"
+          }
+        ],
+        "cumulativeSupplySideRevenueUSD": "23.17171500393098884610621403064479",
+        "exchangeRate": null,
+        "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5cb84b0000",
+        "market": {
+          "id": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+          "inputToken": {
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "name": "Aave Ethereum USDC"
+        },
+        "rates": [
+          {
+            "rate": "5.4824918956074125",
+            "side": "BORROWER",
+            "type": "STABLE"
+          },
+          {
+            "rate": "3.8599351648592997",
+            "side": "BORROWER",
+            "type": "VARIABLE"
+          },
+          {
+            "rate": "3.0170676440757713",
+            "side": "LENDER",
+            "type": "VARIABLE"
+          }
+        ],
+        "stableBorrowAPY": [
+          {
+            "rate": "5.4824918956074125"
+          }
+        ],
+        "supplyAPY": [
+          {
+            "rate": "3.0170676440757713",
+            "type": "VARIABLE"
+          }
+        ],
+        "timestamp": "1674861287",
+        "totalBorrowBalanceUSD": "693408.52134701480352",
+        "totalDepositBalanceUSD": "798408.63261304532736",
+        "totalValueLockedUSD": "798408.63261304532736"
+      }
+    ]
+  }
+}
