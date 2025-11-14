@@ -1,0 +1,107 @@
+import json
+import csv
+from datetime import datetime
+
+# Lista dos arquivos JSON que você quer processar
+json_files = ['CompoundV3-1000.json', 'CompoundV3-1000+.json']
+
+# Nome do arquivo CSV de saída
+output_csv_file = 'compound_v3_data.csv'
+
+# Cabeçalho do arquivo CSV
+# Adicionamos colunas calculadas como 'utilization_rate' e 'deposit_apy'
+headers = [
+    'timestamp',
+    'date_time',              # Data legível
+    'deposit_apy',            # Seu Alvo (Y) - "LENDER"
+    'borrow_apy',             # Juros de empréstimo - "BORROWER"
+    'utilization_rate',       # Sua Feature (X) - Calculada
+    'total_deposit_usd',
+    'total_borrow_usd',
+    'input_token_price_usd'   # Seu proxy para Risco Depeg (X)
+]
+
+print(f"Iniciando o processamento de {len(json_files)} arquivos JSON...")
+
+try:
+    with open(output_csv_file, mode='w', newline='', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        
+        # Escreve o cabeçalho
+        writer.writerow(headers)
+        
+        processed_snapshots = 0
+        
+        # Processa cada arquivo JSON da lista
+        for file_name in json_files:
+            print(f"Processando arquivo: {file_name}...")
+            try:
+                with open(file_name, mode='r', encoding='utf-8') as json_file:
+                    data = json.load(json_file)
+                    
+                    # Acessa a lista de snapshots
+                    snapshots = data.get('data', {}).get('marketDailySnapshots', [])
+                    
+                    if not snapshots:
+                        print(f"  -> Aviso: Nenhum 'marketDailySnapshots' encontrado em {file_name}")
+                        continue
+                        
+                    # Itera por cada snapshot diário no arquivo
+                    for snapshot in snapshots:
+                        try:
+                            # 1. Extrai dados brutos e converte tipos
+                            timestamp = int(snapshot.get('timestamp', 0))
+                            
+                            # Converte timestamp para data legível (YYYY-MM-DD HH:MM:SS)
+                            date_time = datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
+                            
+                            total_deposit = float(snapshot.get('totalDepositBalanceUSD', 0))
+                            total_borrow = float(snapshot.get('totalBorrowBalanceUSD', 0))
+                            token_price = float(snapshot.get('inputTokenPriceUSD', 0))
+
+                            # 2. Calcula a Taxa de Utilização (evita divisão por zero)
+                            if total_deposit > 0:
+                                utilization_rate = (total_borrow / total_deposit) * 100 # Em porcentagem
+                            else:
+                                utilization_rate = 0.0
+
+                            # 3. Extrai os APYs (Alvo Y)
+                            deposit_apy = None
+                            borrow_apy = None
+                            
+                            rates = snapshot.get('rates', [])
+                            for rate_info in rates:
+                                if rate_info.get('side') == 'LENDER':
+                                    deposit_apy = float(rate_info.get('rate', 0))
+                                elif rate_info.get('side') == 'BORROWER':
+                                    borrow_apy = float(rate_info.get('rate', 0))
+                            
+                            # 4. Escreve a linha no CSV
+                            writer.writerow([
+                                timestamp,
+                                date_time,
+                                deposit_apy,
+                                borrow_apy,
+                                utilization_rate,
+                                total_deposit,
+                                total_borrow,
+                                token_price
+                            ])
+                            processed_snapshots += 1
+                            
+                        except Exception as e:
+                            print(f"  -> Erro ao processar snapshot ID {snapshot.get('id')}: {e}")
+
+            except FileNotFoundError:
+                print(f"  -> ERRO: Arquivo {file_name} não encontrado.")
+            except json.JSONDecodeError:
+                print(f"  -> ERRO: Arquivo {file_name} não é um JSON válido.")
+
+    print("\n--- Concluído! ---")
+    print(f"Total de {processed_snapshots} snapshots processados.")
+    print(f"Dados salvos com sucesso em: {output_csv_file}")
+
+except IOError as e:
+    print(f"ERRO FATAL: Não foi possível escrever no arquivo CSV: {e}")
+except Exception as e:
+    print(f"Ocorreu um erro inesperado: {e}")
