@@ -7,24 +7,55 @@ file_eth = "../raw_data/features/CBETHUSD.csv"
 file_dgs2 = "../raw_data/features/DGS2.csv"
 file_gas = "../raw_data/features/export-AvgGasPrice.csv"
 file_vix = "../raw_data/features/VIXCLS.csv"
-file_aave_base = "../raw_data/aave/aave_cleaned.csv" # Nosso DataFrame base (já inspecionado)
+file_aave_base = "../raw_data/aave/aave.csv" # Nosso DataFrame base (já inspecionado)
 file_sofr_base = "../raw_data/sofr/SOFR90DAYAVG.csv" # Nosso Y2 (já inspecionado)
 
 # --- 1. Preparar DataFrame Base (Aave - Y1 e X-on-chain) ---
-df_aave = pd.read_csv(file_aave_base)
-df_aave['date'] = pd.to_datetime(df_aave['date']).dt.tz_localize(None) # Remove fuso horário
-df_aave = df_aave.set_index('date')
-# Agregar por dia (resample) e manter apenas colunas numéricas
-df_base = df_aave.resample('D').mean(numeric_only=True)
-# Renomear colunas para clareza
-df_base = df_base.rename(columns={
-    'aave_usdc_apy': 'Y1_Aave_APY',
-    'aave_utilization_rate': 'X_Aave_Utilization',
-    'usdc_depeg_risk': 'X_USDC_Depeg_Risk'
-})
-# Selecionar apenas as colunas que importam do Aave
-df_base = df_base[['Y1_Aave_APY', 'X_Aave_Utilization', 'X_USDC_Depeg_Risk']]
+# Ler o CSV como string para garantir que os pontos não sejam mal interpretados
+df_aave = pd.read_csv(file_aave_base, dtype=str)
 
+# Limpeza e Conversão de Data
+df_aave['date'] = pd.to_datetime(df_aave['date']).dt.tz_localize(None)
+df_aave = df_aave.set_index('date')
+
+# --- LIMPEZA ESTRUTURAL (Ray Format) ---
+# Definição da constante Ray (10^27)
+RAY = 1e27 
+
+# Colunas para limpar e converter
+cols_to_clean = ['Y_Aave_APY', 'X_Aave_Utilization']
+
+for col in cols_to_clean:
+    # 1. Remove os pontos separadores de milhar (ex: "30.170..." vira "30170...")
+    # 2. Converte para float
+    # 3. Divide por RAY para normalizar
+    df_aave[col] = df_aave[col].str.replace('.', '', regex=False).astype(float) / RAY
+
+# Agregar por dia (média diária)
+df_base = df_aave.resample('D').mean(numeric_only=True)
+
+# Renomear colunas para o padrão do modelo
+# Nota: 'Y_Aave_APY' já é o nome correto no novo CSV, apenas renomeamos para Y1 para consistência
+df_base = df_base.rename(columns={
+    'Y_Aave_APY': 'Y1_Aave_APY',
+    'X_Aave_Utilization': 'X_Aave_Utilization'
+})
+
+# --- AJUSTE DE ESCALA (Verificação de Segurança) ---
+# Se os valores no CSV forem "Wad" (1e18) mas dividirmos por "Ray" (1e27), 
+# o APY ficará minúsculo (ex: 0.00000003). 
+# Esta lógica multiplica por 10^9 se a média for suspeitamente baixa (< 0.0001%), 
+# assumindo que era Wad e não Ray.
+if df_base['Y1_Aave_APY'].mean() < 0.0001:
+    print("⚠️ Aviso: Valores detectados muito baixos para Ray. Ajustando escala (x 1e9)...")
+    df_base['Y1_Aave_APY'] = df_base['Y1_Aave_APY'] * 1e9
+    df_base['X_Aave_Utilization'] = df_base['X_Aave_Utilization'] * 1e9
+
+# Selecionar apenas as colunas existentes (removemos usdc_depeg_risk pois não existe no novo CSV)
+df_base = df_base[['Y1_Aave_APY', 'X_Aave_Utilization']]
+
+print(f"Base Aave carregada. Formato: {df_base.shape}")
+print(df_base.head())
 
 # --- 2. Preparar DataFrame TradFi (Y2 e X-off-chain) ---
 # Carregar dados
