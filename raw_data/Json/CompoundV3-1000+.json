@@ -1,0 +1,3388 @@
+{
+  "data": {
+    "marketDailySnapshots": [
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48054f0000",
+        "inputTokenPriceUSD": "0.99985602",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20229",
+            "rate": "5.660666919288",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20229",
+            "rate": "4.7142854319744",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1747871747",
+        "totalBorrowBalanceUSD": "438155383.94317745138664",
+        "totalDepositBalanceUSD": "484356767.41395262404006"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48064f0000",
+        "inputTokenPriceUSD": "0.99976986",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20230",
+            "rate": "4.63365314964",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20230",
+            "rate": "3.8025254300544",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1747957715",
+        "totalBorrowBalanceUSD": "439891458.4111423048524",
+        "totalDepositBalanceUSD": "487814289.25740114853494"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48074f0000",
+        "inputTokenPriceUSD": "0.99974",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20231",
+            "rate": "3.9413244452688",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20231",
+            "rate": "3.1639311715248",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748044451",
+        "totalBorrowBalanceUSD": "441167251.93910962824",
+        "totalDepositBalanceUSD": "501971129.85753672302"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48084f0000",
+        "inputTokenPriceUSD": "0.99981996",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20232",
+            "rate": "3.955562829432",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20232",
+            "rate": "3.1823839731168",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748128103",
+        "totalBorrowBalanceUSD": "441622489.33417782589344",
+        "totalDepositBalanceUSD": "499575467.08429433217024"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48094f0000",
+        "inputTokenPriceUSD": "0.99987686",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20233",
+            "rate": "3.9354789449232",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20233",
+            "rate": "3.1563554643072",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748216891",
+        "totalBorrowBalanceUSD": "437892784.88801059104694",
+        "totalDepositBalanceUSD": "499441219.9173799273554"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480a4f0000",
+        "inputTokenPriceUSD": "0.99978772",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20234",
+            "rate": "6.7504099619952",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20234",
+            "rate": "5.6817350896608",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748302775",
+        "totalBorrowBalanceUSD": "436901309.57409872119212",
+        "totalDepositBalanceUSD": "481359705.37447911306404"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480b4f0000",
+        "inputTokenPriceUSD": "0.99975577",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20235",
+            "rate": "3.9463666732368",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20235",
+            "rate": "3.1704658501536",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748389955",
+        "totalBorrowBalanceUSD": "433622739.86097504173762",
+        "totalDepositBalanceUSD": "492369870.92723961551501"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480c4f0000",
+        "inputTokenPriceUSD": "0.99980571",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20236",
+            "rate": "3.9474073643904",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20236",
+            "rate": "3.1718145754944",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748476739",
+        "totalBorrowBalanceUSD": "431461691.29266214870755",
+        "totalDepositBalanceUSD": "491517071.20434180576945"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480d4f0000",
+        "inputTokenPriceUSD": "0.99977968",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20237",
+            "rate": "3.944930829696",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20237",
+            "rate": "3.1686050117088",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748563139",
+        "totalBorrowBalanceUSD": "433399540.3386167816728",
+        "totalDepositBalanceUSD": "492405439.87076007012992"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480e4f0000",
+        "inputTokenPriceUSD": "0.99990004",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20238",
+            "rate": "3.9146012456832",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20238",
+            "rate": "3.1292981881056",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748649431",
+        "totalBorrowBalanceUSD": "433928483.31860092174164",
+        "totalDepositBalanceUSD": "499199004.20056121316068"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480f4f0000",
+        "inputTokenPriceUSD": "0.99987141",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20239",
+            "rate": "3.92003210124",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20239",
+            "rate": "3.1363365187296",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748732891",
+        "totalBorrowBalanceUSD": "431546451.86596578168297",
+        "totalDepositBalanceUSD": "495328625.41761514499742"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48104f0000",
+        "inputTokenPriceUSD": "0.99982",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20240",
+            "rate": "3.8867397888672",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20240",
+            "rate": "3.0931900262928",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748820563",
+        "totalBorrowBalanceUSD": "422681033.07453159312",
+        "totalDepositBalanceUSD": "491946187.24263231284"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48114f0000",
+        "inputTokenPriceUSD": "0.99975211",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20241",
+            "rate": "3.93001127424",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20241",
+            "rate": "3.1492694228688",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748908799",
+        "totalBorrowBalanceUSD": "428388199.9386499067908",
+        "totalDepositBalanceUSD": "489700089.36319626616132"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48124f0000",
+        "inputTokenPriceUSD": "0.99977498",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20242",
+            "rate": "3.940783688016",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20242",
+            "rate": "3.1632303564576",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1748994971",
+        "totalBorrowBalanceUSD": "433483414.6431575307988",
+        "totalDepositBalanceUSD": "493337542.69850346172226"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48134f0000",
+        "inputTokenPriceUSD": "0.99973339",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20243",
+            "rate": "3.9518860598064",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20243",
+            "rate": "3.1776189182064",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749079871",
+        "totalBorrowBalanceUSD": "435040858.92970779365194",
+        "totalDepositBalanceUSD": "492868128.7827961631894"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48144f0000",
+        "inputTokenPriceUSD": "0.99973",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20244",
+            "rate": "3.961399654224",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20244",
+            "rate": "3.1899484377504",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749167411",
+        "totalBorrowBalanceUSD": "435488234.92263353317",
+        "totalDepositBalanceUSD": "491767943.93394563929"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48154f0000",
+        "inputTokenPriceUSD": "0.999819",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20245",
+            "rate": "3.9607884045504",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20245",
+            "rate": "3.1891562628912",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749253907",
+        "totalBorrowBalanceUSD": "432341042.882430239739",
+        "totalDepositBalanceUSD": "488037469.465975661541"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48164f0000",
+        "inputTokenPriceUSD": "0.99975959",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20246",
+            "rate": "4.2705839814192",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20246",
+            "rate": "3.4802006949936",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749339623",
+        "totalBorrowBalanceUSD": "430179318.22128232331185",
+        "totalDepositBalanceUSD": "477578207.07900520639861"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48174f0000",
+        "inputTokenPriceUSD": "0.9998573",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20247",
+            "rate": "5.4606499906608",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20247",
+            "rate": "4.5367148505312",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749427127",
+        "totalBorrowBalanceUSD": "430738698.4072474188887",
+        "totalDepositBalanceUSD": "476450658.3366057522774"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48184f0000",
+        "inputTokenPriceUSD": "0.99979859",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20248",
+            "rate": "6.9533205929856",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20248",
+            "rate": "5.8618746378144",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749513203",
+        "totalBorrowBalanceUSD": "433245637.56525610254864",
+        "totalDepositBalanceUSD": "477035800.63896433779382"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48194f0000",
+        "inputTokenPriceUSD": "0.99978325",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20249",
+            "rate": "6.748933250952",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20249",
+            "rate": "5.6804241002976",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749599855",
+        "totalBorrowBalanceUSD": "441144489.6596188451115",
+        "totalDepositBalanceUSD": "486036861.433060833899"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb481a4f0000",
+        "inputTokenPriceUSD": "0.99979999",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20250",
+            "rate": "3.9976675174944",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20250",
+            "rate": "3.236951209032",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749684131",
+        "totalBorrowBalanceUSD": "438941186.17404331516394",
+        "totalDepositBalanceUSD": "488171790.74185561425547"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb481b4f0000",
+        "inputTokenPriceUSD": "0.99979345",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20251",
+            "rate": "5.7068190385056",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20251",
+            "rate": "4.7552582583072",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749772211",
+        "totalBorrowBalanceUSD": "437737769.97088356118085",
+        "totalDepositBalanceUSD": "483828801.3129714375436"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb481c4f0000",
+        "inputTokenPriceUSD": "0.99973",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20252",
+            "rate": "6.3215646669216",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20252",
+            "rate": "5.3010157678128",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749858335",
+        "totalBorrowBalanceUSD": "438359393.20451345857",
+        "totalDepositBalanceUSD": "483600865.85742208844"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb481d4f0000",
+        "inputTokenPriceUSD": "0.99979571",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20253",
+            "rate": "4.4349731771184",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20253",
+            "rate": "3.6261417690432",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1749944039",
+        "totalBorrowBalanceUSD": "434049789.64591448496592",
+        "totalDepositBalanceUSD": "481630979.45440714859619"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb481e4f0000",
+        "inputTokenPriceUSD": "0.99994892",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20254",
+            "rate": "4.8038073531984",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20254",
+            "rate": "3.9535845509232",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750031651",
+        "totalBorrowBalanceUSD": "434324405.50199842431288",
+        "totalDepositBalanceUSD": "481388432.23197190723884"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb481f4f0000",
+        "inputTokenPriceUSD": "0.99986254",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20255",
+            "rate": "5.9157628878816",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20255",
+            "rate": "4.940753965848",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750118327",
+        "totalBorrowBalanceUSD": "436343764.20273199427572",
+        "totalDepositBalanceUSD": "481226139.0361690342652"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48204f0000",
+        "inputTokenPriceUSD": "0.99980188",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20256",
+            "rate": "3.9056725084608",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20256",
+            "rate": "3.1177266363216",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750200983",
+        "totalBorrowBalanceUSD": "434968625.50843609169108",
+        "totalDepositBalanceUSD": "502252837.93158689824532"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48214f0000",
+        "inputTokenPriceUSD": "0.99984103",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20257",
+            "rate": "3.9162733632432",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20257",
+            "rate": "3.1314652316496",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750290059",
+        "totalBorrowBalanceUSD": "436242729.65292914652318",
+        "totalDepositBalanceUSD": "500940951.93115702180224"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48224f0000",
+        "inputTokenPriceUSD": "0.99987136",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20258",
+            "rate": "7.0128044679024",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20258",
+            "rate": "5.9146831015488",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750376819",
+        "totalBorrowBalanceUSD": "436333830.72374258552512",
+        "totalDepositBalanceUSD": "480348740.22287019970176"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48234f0000",
+        "inputTokenPriceUSD": "0.9999",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20259",
+            "rate": "5.0383859024304",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20259",
+            "rate": "4.1618381750208",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750463507",
+        "totalBorrowBalanceUSD": "435438092.2910024952",
+        "totalDepositBalanceUSD": "482274493.3048552587"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48244f0000",
+        "inputTokenPriceUSD": "0.99985",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20260",
+            "rate": "3.9975622787088",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20260",
+            "rate": "3.2368148252928",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750549307",
+        "totalBorrowBalanceUSD": "430882885.34998913335",
+        "totalDepositBalanceUSD": "479229881.7358176448"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48254f0000",
+        "inputTokenPriceUSD": "0.99989011",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20261",
+            "rate": "5.222150687232",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20261",
+            "rate": "4.324980468816",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750636355",
+        "totalBorrowBalanceUSD": "429386276.85450459794486",
+        "totalDepositBalanceUSD": "475323468.38493545971664"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48264f0000",
+        "inputTokenPriceUSD": "0.99981931",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20262",
+            "rate": "3.9328584452352",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20262",
+            "rate": "3.1529593240848",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750723091",
+        "totalBorrowBalanceUSD": "427644019.33188605227229",
+        "totalDepositBalanceUSD": "488277300.70372672323387"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48274f0000",
+        "inputTokenPriceUSD": "0.99985773",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20263",
+            "rate": "3.9555488495232",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20263",
+            "rate": "3.1823658556848",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750809167",
+        "totalBorrowBalanceUSD": "428112747.00592315071681",
+        "totalDepositBalanceUSD": "484295524.65347170452045"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48284f0000",
+        "inputTokenPriceUSD": "0.99992",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20264",
+            "rate": "3.9716758143504",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20264",
+            "rate": "3.2032662324624",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750895927",
+        "totalBorrowBalanceUSD": "428960290.41329043288",
+        "totalDepositBalanceUSD": "482088259.97357340136"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48294f0000",
+        "inputTokenPriceUSD": "0.99993961",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20265",
+            "rate": "3.9939593506272",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20265",
+            "rate": "3.2321454632208",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1750980923",
+        "totalBorrowBalanceUSD": "430410808.32953457894752",
+        "totalDepositBalanceUSD": "479406465.97208893713167"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb482a4f0000",
+        "inputTokenPriceUSD": "0.99984",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20266",
+            "rate": "4.7196948966624",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20266",
+            "rate": "3.878911380528",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751068595",
+        "totalBorrowBalanceUSD": "432189881.0891092536",
+        "totalDepositBalanceUSD": "479146689.33392242656"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb482b4f0000",
+        "inputTokenPriceUSD": "0.99986",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20267",
+            "rate": "4.1130661237632",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20267",
+            "rate": "3.3403598375616",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751154947",
+        "totalBorrowBalanceUSD": "432421228.73150377634",
+        "totalDepositBalanceUSD": "480300451.34209713112"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb482c4f0000",
+        "inputTokenPriceUSD": "0.99988003",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20268",
+            "rate": "4.6743959555424",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20268",
+            "rate": "3.8386959921504",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751240279",
+        "totalBorrowBalanceUSD": "433360868.14200893430155",
+        "totalDepositBalanceUSD": "480511934.66375098251885"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb482d4f0000",
+        "inputTokenPriceUSD": "0.99986499",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20269",
+            "rate": "3.9938322479328",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20269",
+            "rate": "3.231980741232",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751327243",
+        "totalBorrowBalanceUSD": "436507574.74112368108107",
+        "totalDepositBalanceUSD": "486211828.95024833294505"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb482e4f0000",
+        "inputTokenPriceUSD": "0.99995942",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20270",
+            "rate": "6.9014089247904",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20270",
+            "rate": "5.8157886148992",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751414387",
+        "totalBorrowBalanceUSD": "434089649.86170137583926",
+        "totalDepositBalanceUSD": "478041021.66749323587264"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb482f4f0000",
+        "inputTokenPriceUSD": "0.99992744",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20271",
+            "rate": "5.313450245472",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20271",
+            "rate": "4.40603418564",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751500175",
+        "totalBorrowBalanceUSD": "433386469.56926382457224",
+        "totalDepositBalanceUSD": "479596335.51852809126536"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48304f0000",
+        "inputTokenPriceUSD": "0.99982544",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20272",
+            "rate": "5.2281527827392",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20272",
+            "rate": "4.33030899636",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751586839",
+        "totalBorrowBalanceUSD": "434477488.88270454486512",
+        "totalDepositBalanceUSD": "480929785.05479370985984"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48314f0000",
+        "inputTokenPriceUSD": "0.999861",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20273",
+            "rate": "5.5093441227696",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20273",
+            "rate": "4.5799444182528",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751672267",
+        "totalBorrowBalanceUSD": "436902804.800131172631",
+        "totalDepositBalanceUSD": "483196633.912540130634"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48324f0000",
+        "inputTokenPriceUSD": "0.99997",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20274",
+            "rate": "4.5906716220192",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20274",
+            "rate": "3.7643673872448",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751759591",
+        "totalBorrowBalanceUSD": "437065474.13011236879",
+        "totalDepositBalanceUSD": "484744615.70687955098"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48334f0000",
+        "inputTokenPriceUSD": "0.99993",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20275",
+            "rate": "5.2448751756288",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20275",
+            "rate": "4.3451547638832",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751844287",
+        "totalBorrowBalanceUSD": "443448281.0654867253",
+        "totalDepositBalanceUSD": "490834454.83938004668"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48344f0000",
+        "inputTokenPriceUSD": "0.99992",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20276",
+            "rate": "3.99551178276",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20276",
+            "rate": "3.234157403256",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1751932487",
+        "totalBorrowBalanceUSD": "444827480.27539332488",
+        "totalDepositBalanceUSD": "495145636.96329832472"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48354f0000",
+        "inputTokenPriceUSD": "0.99996761",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20277",
+            "rate": "5.6835370724688",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20277",
+            "rate": "4.7345890498704",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752018203",
+        "totalBorrowBalanceUSD": "448863726.89142036654538",
+        "totalDepositBalanceUSD": "496159409.99523355341987"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48364f0000",
+        "inputTokenPriceUSD": "0.99988684",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20278",
+            "rate": "6.1127787182976",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20278",
+            "rate": "5.1156602440992",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752104903",
+        "totalBorrowBalanceUSD": "452717467.56361022774468",
+        "totalDepositBalanceUSD": "499760539.75453165771324"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48374f0000",
+        "inputTokenPriceUSD": "0.9999417",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20279",
+            "rate": "6.4283304256416",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20279",
+            "rate": "5.3958000351312",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752191747",
+        "totalBorrowBalanceUSD": "455521615.410783418644",
+        "totalDepositBalanceUSD": "502369973.1475906643625"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48384f0000",
+        "inputTokenPriceUSD": "0.99994289",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20280",
+            "rate": "6.572968425864",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20280",
+            "rate": "5.5242064403856",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752278231",
+        "totalBorrowBalanceUSD": "461008693.09158479279993",
+        "totalDepositBalanceUSD": "508196194.16645912351479"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48394f0000",
+        "inputTokenPriceUSD": "0.99993839",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20281",
+            "rate": "3.9988122522192",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20281",
+            "rate": "3.2384347760016",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752363059",
+        "totalBorrowBalanceUSD": "464232954.77756680017689",
+        "totalDepositBalanceUSD": "516063700.80365727461945"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb483a4f0000",
+        "inputTokenPriceUSD": "0.99991",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20282",
+            "rate": "4.3742262160224",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20282",
+            "rate": "3.5722119639888",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752450143",
+        "totalBorrowBalanceUSD": "464687170.94476709887",
+        "totalDepositBalanceUSD": "515723440.18011592788"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb483b4f0000",
+        "inputTokenPriceUSD": "0.99991",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20283",
+            "rate": "6.8757030860256",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20283",
+            "rate": "5.7929675411952",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752537539",
+        "totalBorrowBalanceUSD": "469481343.88680401945",
+        "totalDepositBalanceUSD": "517056766.65466830164"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb483c4f0000",
+        "inputTokenPriceUSD": "0.99987854",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20284",
+            "rate": "6.6657740362416",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20284",
+            "rate": "5.6065971984624",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752623195",
+        "totalBorrowBalanceUSD": "467532121.55341887882642",
+        "totalDepositBalanceUSD": "515240920.34318581495308"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb483d4f0000",
+        "inputTokenPriceUSD": "0.99988",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20285",
+            "rate": "9.5420576475216",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20285",
+            "rate": "8.160097869216",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752710387",
+        "totalBorrowBalanceUSD": "474057511.61048530488",
+        "totalDepositBalanceUSD": "517872333.96028716572"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb483e4f0000",
+        "inputTokenPriceUSD": "0.9999031",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20286",
+            "rate": "9.5263263775008",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20286",
+            "rate": "8.1461320002432",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752796079",
+        "totalBorrowBalanceUSD": "478902294.0945346969194",
+        "totalDepositBalanceUSD": "523189871.4365068816294"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb483f4f0000",
+        "inputTokenPriceUSD": "0.99989574",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20287",
+            "rate": "6.170796251208",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20287",
+            "rate": "5.1671669175216",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752883091",
+        "totalBorrowBalanceUSD": "472875408.69587690314926",
+        "totalDepositBalanceUSD": "521920293.05312009556384"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48404f0000",
+        "inputTokenPriceUSD": "0.99986",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20288",
+            "rate": "5.3621592941088",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20288",
+            "rate": "4.4492769984816",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1752969551",
+        "totalBorrowBalanceUSD": "472626185.89207079876",
+        "totalDepositBalanceUSD": "522941689.791986849"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48414f0000",
+        "inputTokenPriceUSD": "0.99994257",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20289",
+            "rate": "6.6621602976192",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20289",
+            "rate": "5.6033890001856",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753055963",
+        "totalBorrowBalanceUSD": "474535416.0591008016525",
+        "totalDepositBalanceUSD": "522964643.59562968944135"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48424f0000",
+        "inputTokenPriceUSD": "0.99988",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20290",
+            "rate": "5.1207663387744",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20290",
+            "rate": "4.23497369736",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753142303",
+        "totalBorrowBalanceUSD": "475010930.73459552856",
+        "totalDepositBalanceUSD": "524816412.2918816456"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48434f0000",
+        "inputTokenPriceUSD": "0.9999",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20291",
+            "rate": "3.9968500507632",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20291",
+            "rate": "3.2358917854944",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753228679",
+        "totalBorrowBalanceUSD": "466726177.0618042761",
+        "totalDepositBalanceUSD": "519243023.9675527101"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48444f0000",
+        "inputTokenPriceUSD": "0.99985",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20292",
+            "rate": "8.5950609369984",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20292",
+            "rate": "7.3193752333296",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753314839",
+        "totalBorrowBalanceUSD": "470086659.61714580625",
+        "totalDepositBalanceUSD": "515014459.669465803"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48454f0000",
+        "inputTokenPriceUSD": "0.99986651",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20293",
+            "rate": "8.3294291629296",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20293",
+            "rate": "7.083553248",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753399631",
+        "totalBorrowBalanceUSD": "474071642.60163765719194",
+        "totalDepositBalanceUSD": "519798427.98989327754672"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48464f0000",
+        "inputTokenPriceUSD": "0.9998",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20294",
+            "rate": "6.8248586686032",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20294",
+            "rate": "5.7478289984784",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753484351",
+        "totalBorrowBalanceUSD": "479781839.6617260458",
+        "totalDepositBalanceUSD": "528401729.4551787266"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48474f0000",
+        "inputTokenPriceUSD": "0.99986061",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20295",
+            "rate": "6.3628899395904",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20295",
+            "rate": "5.3377034288544",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753572815",
+        "totalBorrowBalanceUSD": "480131703.8745328547019",
+        "totalDepositBalanceUSD": "529617273.62404398512646"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48484f0000",
+        "inputTokenPriceUSD": "0.9998833",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20296",
+            "rate": "3.9885375364416",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20296",
+            "rate": "3.2251188513744",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753660619",
+        "totalBorrowBalanceUSD": "484524446.3635030854217",
+        "totalDepositBalanceUSD": "540844565.8028824770242"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48494f0000",
+        "inputTokenPriceUSD": "0.99979445",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20297",
+            "rate": "6.4977126688656",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20297",
+            "rate": "5.457396049416",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753746719",
+        "totalBorrowBalanceUSD": "485750119.24688801124695",
+        "totalDepositBalanceUSD": "535591489.0361240185251"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb484a4f0000",
+        "inputTokenPriceUSD": "0.9999",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20298",
+            "rate": "8.2417075373376",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20298",
+            "rate": "7.0056759380112",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753832687",
+        "totalBorrowBalanceUSD": "486433753.8210758718",
+        "totalDepositBalanceUSD": "533497596.4940980743"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb484b4f0000",
+        "inputTokenPriceUSD": "0.99984831",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20299",
+            "rate": "11.0046838301136",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20299",
+            "rate": "9.4585848924384",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1753918619",
+        "totalBorrowBalanceUSD": "494284734.24338151817815",
+        "totalDepositBalanceUSD": "537583072.88967257073135"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb484c4f0000",
+        "inputTokenPriceUSD": "0.99991",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20300",
+            "rate": "12.0022920142416",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20300",
+            "rate": "10.3442392674144",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754006195",
+        "totalBorrowBalanceUSD": "497535928.47470551952",
+        "totalDepositBalanceUSD": "539493097.92152164402"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb484d4f0000",
+        "inputTokenPriceUSD": "0.99985417",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20301",
+            "rate": "8.750048396472",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20301",
+            "rate": "7.4569696553376",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754092487",
+        "totalBorrowBalanceUSD": "493537956.73431448869782",
+        "totalDepositBalanceUSD": "540452164.48063854019559"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb484e4f0000",
+        "inputTokenPriceUSD": "0.99978104",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20302",
+            "rate": "3.9940428548016",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20302",
+            "rate": "3.232253685312",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754177255",
+        "totalBorrowBalanceUSD": "491480902.34632709847784",
+        "totalDepositBalanceUSD": "547398632.29817204906976"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb484f4f0000",
+        "inputTokenPriceUSD": "0.99991609",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20303",
+            "rate": "5.2085001782592",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20303",
+            "rate": "4.3128618494256",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754264339",
+        "totalBorrowBalanceUSD": "492830589.61570412332615",
+        "totalDepositBalanceUSD": "545554692.05486679567701"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48504f0000",
+        "inputTokenPriceUSD": "0.99986115",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20304",
+            "rate": "3.9461937392736",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20304",
+            "rate": "3.1702417301088",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754349995",
+        "totalBorrowBalanceUSD": "479433805.54987585429185",
+        "totalDepositBalanceUSD": "544426000.31112776770695"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48514f0000",
+        "inputTokenPriceUSD": "0.99988",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20305",
+            "rate": "3.978284564736",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20305",
+            "rate": "3.2118311073168",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754437439",
+        "totalBorrowBalanceUSD": "479376840.38683761532",
+        "totalDepositBalanceUSD": "537312382.30669030472"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48524f0000",
+        "inputTokenPriceUSD": "0.99988792",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20306",
+            "rate": "3.9992631444864",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20306",
+            "rate": "3.2390191254672",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754524547",
+        "totalBorrowBalanceUSD": "481302734.02859983187224",
+        "totalDepositBalanceUSD": "534942762.96552095570728"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48534f0000",
+        "inputTokenPriceUSD": "0.99986",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20307",
+            "rate": "4.857357818016",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20307",
+            "rate": "4.0011254651232",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754610599",
+        "totalBorrowBalanceUSD": "483193747.86104792592",
+        "totalDepositBalanceUSD": "535432067.374529614"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48544f0000",
+        "inputTokenPriceUSD": "0.99985082",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20308",
+            "rate": "3.9720265545888",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20308",
+            "rate": "3.2037207892128",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754695355",
+        "totalBorrowBalanceUSD": "476652880.246938362519",
+        "totalDepositBalanceUSD": "535611709.24440932568552"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48554f0000",
+        "inputTokenPriceUSD": "0.99984599",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20309",
+            "rate": "3.8969099659584",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20309",
+            "rate": "3.106370472264",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754783567",
+        "totalBorrowBalanceUSD": "458516099.21098622559919",
+        "totalDepositBalanceUSD": "531418859.67766498436248"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48564f0000",
+        "inputTokenPriceUSD": "0.99984",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20310",
+            "rate": "3.9423589238304",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20310",
+            "rate": "3.1652718488784",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754870039",
+        "totalBorrowBalanceUSD": "462730917.17345911776",
+        "totalDepositBalanceUSD": "526283801.12514566448"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48574f0000",
+        "inputTokenPriceUSD": "0.99984",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20311",
+            "rate": "3.946175082576",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20311",
+            "rate": "3.170217548304",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1754956607",
+        "totalBorrowBalanceUSD": "462698577.02752850688",
+        "totalDepositBalanceUSD": "525431405.15495972304"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48584f0000",
+        "inputTokenPriceUSD": "0.99984219",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20312",
+            "rate": "3.9143749559616",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20312",
+            "rate": "3.12900491592",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755042119",
+        "totalBorrowBalanceUSD": "464019335.23506190981185",
+        "totalDepositBalanceUSD": "533866085.40393901749906"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48594f0000",
+        "inputTokenPriceUSD": "0.99981552",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20313",
+            "rate": "3.987510058872",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20313",
+            "rate": "3.2237872532352",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755129251",
+        "totalBorrowBalanceUSD": "481202970.4403531001216",
+        "totalDepositBalanceUSD": "537358875.28031795840688"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb485a4f0000",
+        "inputTokenPriceUSD": "0.99978985",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20314",
+            "rate": "3.9944251720368",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20314",
+            "rate": "3.232749163176",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755215963",
+        "totalBorrowBalanceUSD": "481553202.86585364087735",
+        "totalDepositBalanceUSD": "536259214.86825667141995"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb485b4f0000",
+        "inputTokenPriceUSD": "0.99984",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20315",
+            "rate": "5.5202399842176",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20315",
+            "rate": "4.5896175217584",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755300659",
+        "totalBorrowBalanceUSD": "485806520.32169042736",
+        "totalDepositBalanceUSD": "537264159.257630316"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb485c4f0000",
+        "inputTokenPriceUSD": "0.99985512",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20316",
+            "rate": "5.0569684052832",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20316",
+            "rate": "4.178335309416",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755386111",
+        "totalBorrowBalanceUSD": "484608833.27775946839504",
+        "totalDepositBalanceUSD": "536703432.52348949390352"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb485d4f0000",
+        "inputTokenPriceUSD": "0.99990951",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20317",
+            "rate": "6.1549194173184",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20317",
+            "rate": "5.153071820328",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755474275",
+        "totalBorrowBalanceUSD": "485683061.12993778819186",
+        "totalDepositBalanceUSD": "536082402.29930503802715"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb485e4f0000",
+        "inputTokenPriceUSD": "0.99990824",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20318",
+            "rate": "5.5704570843744",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20318",
+            "rate": "4.6341991450224",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755561515",
+        "totalBorrowBalanceUSD": "483436911.66106214631736",
+        "totalDepositBalanceUSD": "534561091.45636226815048"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb485f4f0000",
+        "inputTokenPriceUSD": "0.99989105",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20319",
+            "rate": "5.6325882330432",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20319",
+            "rate": "4.6893578007744",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755647879",
+        "totalBorrowBalanceUSD": "482248264.26990873171405",
+        "totalDepositBalanceUSD": "533112184.8383280649146"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48604f0000",
+        "inputTokenPriceUSD": "0.99986894",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20320",
+            "rate": "7.3780055958672",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20320",
+            "rate": "6.2389005484896",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755733307",
+        "totalBorrowBalanceUSD": "484296834.05240684975694",
+        "totalDepositBalanceUSD": "532555235.61475321097284"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48614f0000",
+        "inputTokenPriceUSD": "0.99994268",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20321",
+            "rate": "4.9871741473728",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20321",
+            "rate": "4.116373518528",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755820583",
+        "totalBorrowBalanceUSD": "483949053.82344119946336",
+        "totalDepositBalanceUSD": "536096272.79676584220016"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48624f0000",
+        "inputTokenPriceUSD": "0.99984",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20322",
+            "rate": "4.9081170346272",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20322",
+            "rate": "4.046188368744",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755907103",
+        "totalBorrowBalanceUSD": "485827019.92395419136",
+        "totalDepositBalanceUSD": "538299072.15258711312"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48634f0000",
+        "inputTokenPriceUSD": "0.99982654",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20323",
+            "rate": "6.4803235702464",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20323",
+            "rate": "5.4419583953232",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1755993203",
+        "totalBorrowBalanceUSD": "487316516.5116566434361",
+        "totalDepositBalanceUSD": "537349249.00573959977614"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48644f0000",
+        "inputTokenPriceUSD": "0.99985195",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20324",
+            "rate": "5.4764661745152",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20324",
+            "rate": "4.550756106312",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756078487",
+        "totalBorrowBalanceUSD": "486848670.98575759567315",
+        "totalDepositBalanceUSD": "538489109.15022117959925"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48654f0000",
+        "inputTokenPriceUSD": "0.99985174",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20325",
+            "rate": "4.8788961933024",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20325",
+            "rate": "4.0202467573824",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756166387",
+        "totalBorrowBalanceUSD": "485692122.00743517847786",
+        "totalDepositBalanceUSD": "538197636.40777288725412"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48664f0000",
+        "inputTokenPriceUSD": "0.99986",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20326",
+            "rate": "6.2120529677664",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20326",
+            "rate": "5.2037937172368",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756252655",
+        "totalBorrowBalanceUSD": "485054372.10681417716",
+        "totalDepositBalanceUSD": "535294704.9940155656"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48674f0000",
+        "inputTokenPriceUSD": "0.99984536",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20327",
+            "rate": "6.892202923056",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20327",
+            "rate": "5.8076157325248",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756338251",
+        "totalBorrowBalanceUSD": "487337765.74812017623424",
+        "totalDepositBalanceUSD": "536695598.20979576224464"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48684f0000",
+        "inputTokenPriceUSD": "0.99985839",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20328",
+            "rate": "6.464321402832",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20328",
+            "rate": "5.4277520265072",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756424867",
+        "totalBorrowBalanceUSD": "486647801.50659831329349",
+        "totalDepositBalanceUSD": "536638179.99296421717747"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48694f0000",
+        "inputTokenPriceUSD": "0.99985544",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20329",
+            "rate": "5.4432531215712",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20329",
+            "rate": "4.5212702963616",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756511507",
+        "totalBorrowBalanceUSD": "482130683.2021035180428",
+        "totalDepositBalanceUSD": "533325103.3747934881664"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb486a4f0000",
+        "inputTokenPriceUSD": "0.99989149",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20330",
+            "rate": "4.8474957665664",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20330",
+            "rate": "3.9923701569792",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756597643",
+        "totalBorrowBalanceUSD": "481646141.0711429274887",
+        "totalDepositBalanceUSD": "533770735.30918168398757"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb486b4f0000",
+        "inputTokenPriceUSD": "0.99987135",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20331",
+            "rate": "4.9377449521008",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20331",
+            "rate": "4.0724913763584",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756683455",
+        "totalBorrowBalanceUSD": "481818000.52213757366025",
+        "totalDepositBalanceUSD": "533808884.05690022491845"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb486c4f0000",
+        "inputTokenPriceUSD": "0.9999",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20332",
+            "rate": "5.555216637504",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20332",
+            "rate": "4.6206690152688",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756770935",
+        "totalBorrowBalanceUSD": "481324519.9903773897",
+        "totalDepositBalanceUSD": "532250226.6340350267"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb486d4f0000",
+        "inputTokenPriceUSD": "0.99985439",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20333",
+            "rate": "4.4622327946032",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20333",
+            "rate": "3.650342252616",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756857515",
+        "totalBorrowBalanceUSD": "479891934.91389703651419",
+        "totalDepositBalanceUSD": "532453671.80235816460259"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb486e4f0000",
+        "inputTokenPriceUSD": "0.99983533",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20334",
+            "rate": "8.8000537639248",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20334",
+            "rate": "7.5013633082736",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1756942619",
+        "totalBorrowBalanceUSD": "487831889.57062834050062",
+        "totalDepositBalanceUSD": "534122451.96905889897538"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb486f4f0000",
+        "inputTokenPriceUSD": "0.99985209",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20335",
+            "rate": "6.5413569885984",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20335",
+            "rate": "5.4961425066816",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757030363",
+        "totalBorrowBalanceUSD": "482979746.9985926317974",
+        "totalDepositBalanceUSD": "532467682.40216814882483"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48704f0000",
+        "inputTokenPriceUSD": "0.99983046",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20336",
+            "rate": "7.185469416408",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20336",
+            "rate": "6.0679712058192",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757116559",
+        "totalBorrowBalanceUSD": "483468759.10587381197664",
+        "totalDepositBalanceUSD": "531957498.67192025300904"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48714f0000",
+        "inputTokenPriceUSD": "0.99982131",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20337",
+            "rate": "6.282099740736",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20337",
+            "rate": "5.2659796849344",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757202755",
+        "totalBorrowBalanceUSD": "484711631.21484849772245",
+        "totalDepositBalanceUSD": "534801627.38580147276699"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48724f0000",
+        "inputTokenPriceUSD": "0.99989691",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20338",
+            "rate": "9.04060810764",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20338",
+            "rate": "7.7149221138144",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757288651",
+        "totalBorrowBalanceUSD": "494631713.71289203731393",
+        "totalDepositBalanceUSD": "541171586.02001617031649"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48734f0000",
+        "inputTokenPriceUSD": "0.99988026",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20339",
+            "rate": "5.1980135657904",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20339",
+            "rate": "4.3035520658688",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757375435",
+        "totalBorrowBalanceUSD": "485932945.08531009659484",
+        "totalDepositBalanceUSD": "537936468.51410321001546"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48744f0000",
+        "inputTokenPriceUSD": "0.99985605",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20340",
+            "rate": "3.9771381396816",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20340",
+            "rate": "3.2103453485952",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757460407",
+        "totalBorrowBalanceUSD": "479477816.9943804994518",
+        "totalDepositBalanceUSD": "537981852.5145634650882"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48754f0000",
+        "inputTokenPriceUSD": "0.99982555",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20341",
+            "rate": "4.0123623726432",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20341",
+            "rate": "3.2509572864048",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757546735",
+        "totalBorrowBalanceUSD": "482600889.46283207727745",
+        "totalDepositBalanceUSD": "536202784.5272745769198"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48764f0000",
+        "inputTokenPriceUSD": "0.99983",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20342",
+            "rate": "5.0561216006112",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20342",
+            "rate": "4.1775835353264",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757634263",
+        "totalBorrowBalanceUSD": "482908639.89366745006",
+        "totalDepositBalanceUSD": "534821864.59847434588"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48774f0000",
+        "inputTokenPriceUSD": "0.99984095",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20343",
+            "rate": "4.1932908411408",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20343",
+            "rate": "3.4115815630512",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757720999",
+        "totalBorrowBalanceUSD": "481500371.6603538535084",
+        "totalDepositBalanceUSD": "534681467.45438781055685"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48784f0000",
+        "inputTokenPriceUSD": "0.99977",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20344",
+            "rate": "5.0776931612304",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20344",
+            "rate": "4.1967342885168",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757806703",
+        "totalBorrowBalanceUSD": "482212559.01036781381",
+        "totalDepositBalanceUSD": "534015515.58512078625"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48794f0000",
+        "inputTokenPriceUSD": "0.99981521",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20345",
+            "rate": "5.3425756777824",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20345",
+            "rate": "4.4318911007664",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757889899",
+        "totalBorrowBalanceUSD": "482785940.6530620938474",
+        "totalDepositBalanceUSD": "534215200.55256004790312"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb487a4f0000",
+        "inputTokenPriceUSD": "0.99983469",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20346",
+            "rate": "4.9321236064896",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20346",
+            "rate": "4.067500870584",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1757980079",
+        "totalBorrowBalanceUSD": "481847255.79561250752444",
+        "totalDepositBalanceUSD": "533850026.38117473720951"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb487b4f0000",
+        "inputTokenPriceUSD": "0.99974998",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20347",
+            "rate": "5.6701776502368",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20347",
+            "rate": "4.7227288490784",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758066395",
+        "totalBorrowBalanceUSD": "483566095.15574193602742",
+        "totalDepositBalanceUSD": "534529298.5152274447055"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb487c4f0000",
+        "inputTokenPriceUSD": "0.999763",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20348",
+            "rate": "5.3772580528848",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20348",
+            "rate": "4.462681340592",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758153443",
+        "totalBorrowBalanceUSD": "484163023.22064712365",
+        "totalDepositBalanceUSD": "535681873.134168354087"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb487d4f0000",
+        "inputTokenPriceUSD": "0.9997722",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20349",
+            "rate": "3.9994223792112",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20349",
+            "rate": "3.2392254970512",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758237935",
+        "totalBorrowBalanceUSD": "489260513.1907946488644",
+        "totalDepositBalanceUSD": "543752773.0280063010054"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb487e4f0000",
+        "inputTokenPriceUSD": "0.99969492",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20350",
+            "rate": "6.2188006468464",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20350",
+            "rate": "5.2097841570384",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758325283",
+        "totalBorrowBalanceUSD": "486044647.80366517782816",
+        "totalDepositBalanceUSD": "536376455.26364377861908"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb487f4f0000",
+        "inputTokenPriceUSD": "0.9997205",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20351",
+            "rate": "6.1004696088528",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20351",
+            "rate": "5.1047324871408",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758411323",
+        "totalBorrowBalanceUSD": "485786628.16302566859",
+        "totalDepositBalanceUSD": "536507534.9052185299225"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48804f0000",
+        "inputTokenPriceUSD": "0.99972969",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20352",
+            "rate": "6.1164845294256",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20352",
+            "rate": "5.1189501773808",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758498275",
+        "totalBorrowBalanceUSD": "486394742.38251732045834",
+        "totalDepositBalanceUSD": "536931208.01593253712462"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48814f0000",
+        "inputTokenPriceUSD": "0.99978077",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20353",
+            "rate": "5.9284352289744",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20353",
+            "rate": "4.9520041878672",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758585407",
+        "totalBorrowBalanceUSD": "485292555.57760997007978",
+        "totalDepositBalanceUSD": "536023592.42379994416067"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48824f0000",
+        "inputTokenPriceUSD": "0.99974223",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20354",
+            "rate": "5.7759028187184",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20354",
+            "rate": "4.81658930712",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758671147",
+        "totalBorrowBalanceUSD": "486226103.08907595042702",
+        "totalDepositBalanceUSD": "537306186.05651716655076"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48834f0000",
+        "inputTokenPriceUSD": "0.99976329",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20355",
+            "rate": "3.9685278025296",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20355",
+            "rate": "3.1991864453712",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758757163",
+        "totalBorrowBalanceUSD": "478101077.82374079443355",
+        "totalDepositBalanceUSD": "538001232.93353112274071"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48844f0000",
+        "inputTokenPriceUSD": "0.99977491",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20356",
+            "rate": "3.9750791100912",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20356",
+            "rate": "3.2076768700368",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758844607",
+        "totalBorrowBalanceUSD": "478419642.11263134602646",
+        "totalDepositBalanceUSD": "537485882.72353938388928"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48854f0000",
+        "inputTokenPriceUSD": "0.99974717",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20357",
+            "rate": "3.9970140915744",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20357",
+            "rate": "3.2361043759776",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1758930959",
+        "totalBorrowBalanceUSD": "480900023.32096618388721",
+        "totalDepositBalanceUSD": "535089642.82635209185546"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48864f0000",
+        "inputTokenPriceUSD": "0.9997",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20358",
+            "rate": "3.9822751995552",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20358",
+            "rate": "3.2170029261696",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759014923",
+        "totalBorrowBalanceUSD": "479099017.7285232921",
+        "totalDepositBalanceUSD": "536137672.6924436634"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48874f0000",
+        "inputTokenPriceUSD": "0.99984791",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20359",
+            "rate": "3.9951568387728",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20359",
+            "rate": "3.2336973970848",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759101275",
+        "totalBorrowBalanceUSD": "481666167.4124860319538",
+        "totalDepositBalanceUSD": "536227725.71816685220349"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48884f0000",
+        "inputTokenPriceUSD": "0.99969044",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20360",
+            "rate": "4.081441643208",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20360",
+            "rate": "3.312284326992",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759189379",
+        "totalBorrowBalanceUSD": "482163455.41172604091352",
+        "totalDepositBalanceUSD": "535602575.00517541935784"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48894f0000",
+        "inputTokenPriceUSD": "0.99963872",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20361",
+            "rate": "5.4762569962272",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20361",
+            "rate": "4.5505704034224",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759275983",
+        "totalBorrowBalanceUSD": "484178352.13260215728544",
+        "totalDepositBalanceUSD": "535535891.56503198366016"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb488a4f0000",
+        "inputTokenPriceUSD": "0.9996897",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20362",
+            "rate": "5.9308280482032",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20362",
+            "rate": "4.9541284812096",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759363163",
+        "totalBorrowBalanceUSD": "482312058.5906782439952",
+        "totalDepositBalanceUSD": "532727612.1201377662023"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb488b4f0000",
+        "inputTokenPriceUSD": "0.9997256",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20363",
+            "rate": "7.4006942341392",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20363",
+            "rate": "6.2590430174256",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759448543",
+        "totalBorrowBalanceUSD": "477478029.952113079168",
+        "totalDepositBalanceUSD": "525020576.6357603700968"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb488c4f0000",
+        "inputTokenPriceUSD": "0.99965802",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20364",
+            "rate": "7.0408773105264",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20364",
+            "rate": "5.9396055482304",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759534823",
+        "totalBorrowBalanceUSD": "470899337.15312111270418",
+        "totalDepositBalanceUSD": "518356522.07148406566804"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb488d4f0000",
+        "inputTokenPriceUSD": "0.99962",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20365",
+            "rate": "5.8297343891328",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20365",
+            "rate": "4.8643797751488",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759622279",
+        "totalBorrowBalanceUSD": "469219063.4220450887",
+        "totalDepositBalanceUSD": "518426820.41638497508"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb488e4f0000",
+        "inputTokenPriceUSD": "0.99969996",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20366",
+            "rate": "3.9946862617344",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20366",
+            "rate": "3.2330875349952",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759707623",
+        "totalBorrowBalanceUSD": "465667321.12604785588416",
+        "totalDepositBalanceUSD": "518514372.54499720319664"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb488f4f0000",
+        "inputTokenPriceUSD": "0.99976504",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20367",
+            "rate": "4.4428494318768",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20367",
+            "rate": "3.6331341327936",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759794227",
+        "totalBorrowBalanceUSD": "466711730.7989993106732",
+        "totalDepositBalanceUSD": "517860799.62565137196912"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48904f0000",
+        "inputTokenPriceUSD": "0.99973969",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20368",
+            "rate": "3.8391116208624",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20368",
+            "rate": "3.0314644116624",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759880987",
+        "totalBorrowBalanceUSD": "487193577.90257507308607",
+        "totalDepositBalanceUSD": "578564231.70796696276617"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48914f0000",
+        "inputTokenPriceUSD": "0.99984866",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20369",
+            "rate": "3.9958143044544",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20369",
+            "rate": "3.2345494651152",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1759967855",
+        "totalBorrowBalanceUSD": "517867908.4335966001847",
+        "totalDepositBalanceUSD": "576378406.98650726005152"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48924f0000",
+        "inputTokenPriceUSD": "0.99972541",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20370",
+            "rate": "6.0758619103728",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20370",
+            "rate": "5.0828863204944",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760053883",
+        "totalBorrowBalanceUSD": "521264765.47266632440223",
+        "totalDepositBalanceUSD": "575358220.33280647745742"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48934f0000",
+        "inputTokenPriceUSD": "1.00007092",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20371",
+            "rate": "3.9253993360704",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20371",
+            "rate": "3.1432924016352",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760140475",
+        "totalBorrowBalanceUSD": "501988814.86158079577976",
+        "totalDepositBalanceUSD": "574925747.24575451692976"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48944f0000",
+        "inputTokenPriceUSD": "0.9999524",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20372",
+            "rate": "3.896602319664",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20372",
+            "rate": "3.1059717657696",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760225891",
+        "totalBorrowBalanceUSD": "495003750.9489727413644",
+        "totalDepositBalanceUSD": "573737830.4456936775988"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48954f0000",
+        "inputTokenPriceUSD": "0.99994832",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20373",
+            "rate": "3.9871686375216",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20373",
+            "rate": "3.2233447716192",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760310611",
+        "totalBorrowBalanceUSD": "496317594.17812021738624",
+        "totalDepositBalanceUSD": "554313442.52116423253936"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48964f0000",
+        "inputTokenPriceUSD": "0.99982",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20374",
+            "rate": "3.9679114660992",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20374",
+            "rate": "3.1983876763344",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760399855",
+        "totalBorrowBalanceUSD": "492890316.7487988997",
+        "totalDepositBalanceUSD": "554781132.78503592524"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48974f0000",
+        "inputTokenPriceUSD": "0.99988751",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20375",
+            "rate": "3.9115692390384",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20375",
+            "rate": "3.12536873628",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760485259",
+        "totalBorrowBalanceUSD": "482931484.65800026097412",
+        "totalDepositBalanceUSD": "556271432.00215440866641"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48984f0000",
+        "inputTokenPriceUSD": "0.99991829",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20376",
+            "rate": "3.9402259864704",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20376",
+            "rate": "3.1625075828736",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760566871",
+        "totalBorrowBalanceUSD": "488011409.4730857668336",
+        "totalDepositBalanceUSD": "555521536.91464469179378"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48994f0000",
+        "inputTokenPriceUSD": "0.9998923",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20377",
+            "rate": "3.8991148747776",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20377",
+            "rate": "3.1092280091424",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760658119",
+        "totalBorrowBalanceUSD": "478870362.3187717732004",
+        "totalDepositBalanceUSD": "554457021.9920149429132"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb489a4f0000",
+        "inputTokenPriceUSD": "0.99986062",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20378",
+            "rate": "5.4947345914224",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20378",
+            "rate": "4.5669744025488",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760744795",
+        "totalBorrowBalanceUSD": "459822843.5451022016392",
+        "totalDepositBalanceUSD": "508568084.98143750317204"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb489b4f0000",
+        "inputTokenPriceUSD": "0.99996996",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20379",
+            "rate": "4.4098519117248",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20379",
+            "rate": "3.6038396675232",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760831603",
+        "totalBorrowBalanceUSD": "458867798.12299791050004",
+        "totalDepositBalanceUSD": "509209003.764552088998"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb489c4f0000",
+        "inputTokenPriceUSD": "0.99995985",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20380",
+            "rate": "5.3997681973968",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20380",
+            "rate": "4.4826653474352",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1760917619",
+        "totalBorrowBalanceUSD": "458110502.97056464221405",
+        "totalDepositBalanceUSD": "506822091.8386972565511"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb489d4f0000",
+        "inputTokenPriceUSD": "0.99994453",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20381",
+            "rate": "4.9214212278624",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20381",
+            "rate": "4.0579995373632",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761003347",
+        "totalBorrowBalanceUSD": "458225660.22655990902555",
+        "totalDepositBalanceUSD": "507695821.37106900647671"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb489e4f0000",
+        "inputTokenPriceUSD": "0.9999",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20382",
+            "rate": "4.4213656769424",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20382",
+            "rate": "3.614061330288",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761090527",
+        "totalBorrowBalanceUSD": "459902543.6595616587",
+        "totalDepositBalanceUSD": "510339155.9151205386"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb489f4f0000",
+        "inputTokenPriceUSD": "0.99987082",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20383",
+            "rate": "6.8430013294032",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20383",
+            "rate": "5.763935650968",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761177575",
+        "totalBorrowBalanceUSD": "461637906.69238937469762",
+        "totalDepositBalanceUSD": "508469374.89234550426438"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a04f0000",
+        "inputTokenPriceUSD": "0.99987567",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20384",
+            "rate": "9.1883755512864",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20384",
+            "rate": "7.8461067649824",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761263459",
+        "totalBorrowBalanceUSD": "459185574.70233349708662",
+        "totalDepositBalanceUSD": "502164806.56362980075511"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a14f0000",
+        "inputTokenPriceUSD": "0.99991159",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20385",
+            "rate": "4.7206706520384",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20385",
+            "rate": "3.8797776366048",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761348683",
+        "totalBorrowBalanceUSD": "453013653.58956271757987",
+        "totalDepositBalanceUSD": "502231425.56453814136175"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a24f0000",
+        "inputTokenPriceUSD": "0.9998642",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20386",
+            "rate": "3.9974979862656",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20386",
+            "rate": "3.2367315008736",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761436727",
+        "totalBorrowBalanceUSD": "457166213.0051111145034",
+        "totalDepositBalanceUSD": "508475406.4348051732306"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a34f0000",
+        "inputTokenPriceUSD": "0.99987081",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20387",
+            "rate": "5.244523713216",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20387",
+            "rate": "4.3448427435456",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761520535",
+        "totalBorrowBalanceUSD": "458600648.82857632264098",
+        "totalDepositBalanceUSD": "507606554.34168509225877"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a44f0000",
+        "inputTokenPriceUSD": "0.999872",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20388",
+            "rate": "5.0972278210704",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20388",
+            "rate": "4.2140767233168",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761609395",
+        "totalBorrowBalanceUSD": "461056710.946957607488",
+        "totalDepositBalanceUSD": "510556264.228001131584"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a54f0000",
+        "inputTokenPriceUSD": "0.99986424",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20389",
+            "rate": "6.5362253182272",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20389",
+            "rate": "5.4915867246672",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761695687",
+        "totalBorrowBalanceUSD": "455168514.89387827838616",
+        "totalDepositBalanceUSD": "501814692.18041180697912"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a64f0000",
+        "inputTokenPriceUSD": "0.9998",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20390",
+            "rate": "3.9950170365312",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20390",
+            "rate": "3.2335162164576",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761780479",
+        "totalBorrowBalanceUSD": "458944516.763724294",
+        "totalDepositBalanceUSD": "510960869.7255905882"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a74f0000",
+        "inputTokenPriceUSD": "0.99985024",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20391",
+            "rate": "3.9975167691072",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20391",
+            "rate": "3.236755843512",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761868679",
+        "totalBorrowBalanceUSD": "458673913.334758202144",
+        "totalDepositBalanceUSD": "510148483.92006679228928"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a84f0000",
+        "inputTokenPriceUSD": "0.99981046",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20392",
+            "rate": "5.4583125360336",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20392",
+            "rate": "4.5346397091984",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1761953843",
+        "totalBorrowBalanceUSD": "455640145.38531672285256",
+        "totalDepositBalanceUSD": "503998380.42493046813948"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48a94f0000",
+        "inputTokenPriceUSD": "0.99987495",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20393",
+            "rate": "5.3076119290272",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20393",
+            "rate": "4.4008510579776",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762039931",
+        "totalBorrowBalanceUSD": "453965345.4868228213476",
+        "totalDepositBalanceUSD": "502378451.73650454643395"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48aa4f0000",
+        "inputTokenPriceUSD": "0.99983106",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20394",
+            "rate": "5.6785812152976",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20394",
+            "rate": "4.7301893458272",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762127639",
+        "totalBorrowBalanceUSD": "450027227.7839852035272",
+        "totalDepositBalanceUSD": "497729383.97155077841416"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48ab4f0000",
+        "inputTokenPriceUSD": "0.99981",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20395",
+            "rate": "3.9852673320816",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20395",
+            "rate": "3.2208807031056",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762213811",
+        "totalBorrowBalanceUSD": "453395899.82674550115",
+        "totalDepositBalanceUSD": "506763642.92855351274"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48ac4f0000",
+        "inputTokenPriceUSD": "0.99976678",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20396",
+            "rate": "3.8842590693456",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20396",
+            "rate": "3.0899750383152",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762299875",
+        "totalBorrowBalanceUSD": "426869233.41852583862666",
+        "totalDepositBalanceUSD": "495432459.49055597790454"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48ad4f0000",
+        "inputTokenPriceUSD": "0.99981815",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20397",
+            "rate": "3.868872809472",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20397",
+            "rate": "3.0700346047632",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762379927",
+        "totalBorrowBalanceUSD": "423070187.73884923563615",
+        "totalDepositBalanceUSD": "496098809.7879390012896"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48ae4f0000",
+        "inputTokenPriceUSD": "0.99991947",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20398",
+            "rate": "3.9918437612208",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20398",
+            "rate": "3.2294036855376",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762473587",
+        "totalBorrowBalanceUSD": "418154784.54996218878356",
+        "totalDepositBalanceUSD": "466140925.66824886345506"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48af4f0000",
+        "inputTokenPriceUSD": "0.99985961",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20399",
+            "rate": "9.3937772866032",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20399",
+            "rate": "8.0284578602832",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762559735",
+        "totalBorrowBalanceUSD": "401146783.32546761388552",
+        "totalDepositBalanceUSD": "438421145.34257435448219"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b04f0000",
+        "inputTokenPriceUSD": "0.99986688",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20400",
+            "rate": "9.7840388848608",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20400",
+            "rate": "8.37492343488",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762646183",
+        "totalBorrowBalanceUSD": "400577645.58039406570752",
+        "totalDepositBalanceUSD": "437279989.77390859852032"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b14f0000",
+        "inputTokenPriceUSD": "0.99984592",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20401",
+            "rate": "7.552844390232",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20401",
+            "rate": "6.3941185424304",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762732499",
+        "totalBorrowBalanceUSD": "400365796.52247826337888",
+        "totalDepositBalanceUSD": "440025779.08764590310048"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b24f0000",
+        "inputTokenPriceUSD": "0.99985291",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20402",
+            "rate": "7.1998839417456",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20402",
+            "rate": "6.0807681014976",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762819175",
+        "totalBorrowBalanceUSD": "398266572.28049092825669",
+        "totalDepositBalanceUSD": "438190787.39594744125393"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b34f0000",
+        "inputTokenPriceUSD": "0.99997652",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20403",
+            "rate": "6.7893528980016",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20403",
+            "rate": "5.7163077636336",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762904159",
+        "totalBorrowBalanceUSD": "399276523.6310096752758",
+        "totalDepositBalanceUSD": "439853857.0064557886304"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b44f0000",
+        "inputTokenPriceUSD": "0.99983326",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20404",
+            "rate": "6.9177806720496",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20404",
+            "rate": "5.8303230874128",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1762991795",
+        "totalBorrowBalanceUSD": "398216854.29346515137312",
+        "totalDepositBalanceUSD": "438514503.29886274127056"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b54f0000",
+        "inputTokenPriceUSD": "0.99989742",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20405",
+            "rate": "9.2541158658576",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20405",
+            "rate": "7.9044695540208",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1763078327",
+        "totalBorrowBalanceUSD": "397146602.52098542893996",
+        "totalDepositBalanceUSD": "434232341.21745742422372"
+      },
+      {
+        "id": "0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48b64f0000",
+        "inputTokenPriceUSD": "0.99981986",
+        "rates": [
+          {
+            "id": "BORROWER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20406",
+            "rate": "3.9948926711616",
+            "side": "BORROWER"
+          },
+          {
+            "id": "LENDER-VARIABLE-0xc3d688b66703497daa19211eedff47f25384cdc3a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-20406",
+            "rate": "3.2333550391152",
+            "side": "LENDER"
+          }
+        ],
+        "timestamp": "1763144411",
+        "totalBorrowBalanceUSD": "394433262.37502877221584",
+        "totalDepositBalanceUSD": "439159858.95984565511408"
+      }
+    ]
+  }
+}
