@@ -52,7 +52,7 @@ Para uma abordagem SOTA (Estado da Arte) focada puramente na precisão preditiva
 
 ## Análise de Resultados e Descobertas
 
-Nossa análise de clusterização (ver slide 5, `image_1c8d24.jpg`) revelou os *drivers* por trás de cada regime de mercado, validando nossa hipótese principal.
+Nossa análise de clusterização (ver slide 5, `clusters.png`) revelou os *drivers* por trás de cada regime de mercado, validando nossa hipótese principal.
 
 ![Gráfico dos Regimes de Mercado](src/clusters.png)
 
