@@ -6,7 +6,7 @@ O Desafio de Dados (Datathon) de Moedas Digitais é uma iniciativa da FGV EESP q
 Este repositório contém a análise e os modelos desenvolvidos para o Datathon, focados em modelar e prever o spread de rendimento entre as Finanças Descentralizadas (DeFi) e os Ativos do Mundo Real (RWA) tokenizados.
 
 - **PDF da Apresentação:** `Crypto.pdf`
-- **Notebook Principal:** `datathon-new-try-2.ipynb`
+- **Notebook Principal:** `datathon.ipynb`
 
 ## Contexto e Problema
 
@@ -54,7 +54,7 @@ Para uma abordagem SOTA (Estado da Arte) focada puramente na precisão preditiva
 
 Nossa análise de clusterização (ver slide 5, `image_1c8d24.jpg`) revelou os *drivers* por trás de cada regime de mercado, validando nossa hipótese principal.
 
-![Gráfico dos Regimes de Mercado](image_0e6d83.png)
+![Gráfico dos Regimes de Mercado](src/clusters.png)
 
 * **Regime 0 (Verde): "O Novo Normal"**
     O estado de *baseline* do mercado. Caracterizado por uma **alta demanda crônica por alavancagem** (Utilização do Compound em 88.14 Z-score) e estresse moderado de VIX e Gás.
